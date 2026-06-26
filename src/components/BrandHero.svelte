@@ -10,9 +10,9 @@
 	});
 
 	const heroImages = [
-		{ src: '/images/fachada.jpg', alt: 'Chop Chop Košice - mặt tiền nhà hàng' },
-		{ src: '/images/interior-1.jpg', alt: 'Không gian bên trong Chop Chop' },
-		{ src: '/images/interior-2.jpg', alt: 'Nội thất nhà hàng Chop Chop' }
+		{ src: '/images/mat-tien.png', alt: 'Chop Chop Košice - mặt tiền nhà hàng' },
+		{ src: '/images/mat-tien.png', alt: 'Chop Chop Košice - không gian' },
+		{ src: '/images/mat-tien.png', alt: 'Chop Chop Košice - nội thất' }
 	];
 
 	let activeImageIndex = 0;

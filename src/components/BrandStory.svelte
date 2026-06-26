@@ -108,7 +108,7 @@
 
 		<div class="transition-all duration-1000 {visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'}" style="transition-delay: 550ms;">
 			<div class="relative rounded-[2.5rem] overflow-hidden min-h-[340px] md:min-h-[420px] shadow-[0_35px_80px_rgba(25,69,43,0.12)]">
-				<img src="/images/fachada.jpg" alt="Mặt tiền nhà hàng Chop Chop Košice" class="absolute inset-0 w-full h-full object-cover" />
+				<img src="/images/mat-tien.png" alt="Mặt tiền nhà hàng Chop Chop Košice" class="absolute inset-0 w-full h-full object-cover" />
 				<div class="absolute inset-0" style="background: linear-gradient(90deg, rgba(13,31,23,0.82) 0%, rgba(13,31,23,0.15) 100%);"></div>
 				<div class="relative z-10 max-w-2xl p-10 md:p-14">
 					<p class="text-xs font-medium tracking-[0.3em] uppercase mb-5" style="color: #ec5d38;">

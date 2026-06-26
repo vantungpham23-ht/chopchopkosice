@@ -1,0 +1,10 @@
+
+--- 2026-06-26T15:16:22.425Z debug
+🪵  Writing logs to "/Users/aidenpham/Documents/GitHub/chopchopkosice/.wrangler/logs/wrangler-2026-06-26_15-16-22_315.log"
+---
+
+--- 2026-06-26T15:16:22.425Z warn
+▲ [WARNING] Proxy environment variables detected. We'll use your proxy for fetch requests.
+
+
+---
